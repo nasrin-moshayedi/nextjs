@@ -1,0 +1,30 @@
+.menu {
+    nav {
+        padding: 0;
+        margin: 10px 0;
+    }
+    a {
+        font-size: .8em;
+        font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+        text-transform: uppercase!important;
+        margin: 0 5px;
+    }
+    h1 {
+        color: red
+    }
+}
+.login {
+    background: #000;
+    nav {
+        padding: 0;
+        height: 30px;
+    }
+    a {
+        margin: 0 5px;
+        color: #fff!important;
+        font-size: .8em;
+        font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+        text-transform: uppercase!important;
+    }
+
+}
